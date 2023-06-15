@@ -2,6 +2,7 @@ collections:
   volunteering-program:
     output: true
     order:
+      - Caring for Community/Program Curator.md
       - Caring for Community/.keep
       - Art and heritage/Sewing Interest Group.md
       - Art and heritage/.keep
