@@ -1,4 +1,5 @@
 collections:
   arts-and-heritage:
     output: true
-    order: []
+    order:
+      - Sewing interest Group.md
