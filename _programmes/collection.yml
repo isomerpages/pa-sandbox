@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Sparks Bukit Canberra/About Us.md
       - Sparks Bukit Canberra/.keep
