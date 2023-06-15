@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Sparks Bukit Canberra/Volunteering opportunities.md
       - Sparks Bukit Canberra/About Us.md
       - Sparks Bukit Canberra/.keep
