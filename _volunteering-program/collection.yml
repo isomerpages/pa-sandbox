@@ -2,4 +2,5 @@ collections:
   volunteering-program:
     output: true
     order:
+      - Art and heritage/Sewing Interest Group.md
       - Art and heritage/.keep
