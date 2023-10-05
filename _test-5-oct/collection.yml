@@ -2,4 +2,5 @@ collections:
   test-5-oct:
     output: true
     order:
+      - Test/.keep
       - sample page.md
