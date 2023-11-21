@@ -14,7 +14,7 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
 
 #### **Kickstarting Conversations on Mental Health**
 
-<div style="text-align:;">
+<div style="text-align:center;">
 	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block;align:center" alt="" src="/images/supersub.jpg"></a>   
   	
 <a></a></div>
