@@ -1,5 +1,5 @@
 collections:
-  new:
+  faq:
     output: true
     order:
       - Newpage.md
