@@ -22,6 +22,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: floating
+      size: sm
+      alignment: right
+      backgroundColor: gray
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -38,4 +42,48 @@ sections:
       button: Button Text
       image: /images/01_84_Super_Sub_logo_icon.jpg
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 23 January 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
