@@ -1,0 +1,7 @@
+collections:
+  test-5-oct:
+    output: true
+    order:
+      - Test/IG Reels.md
+      - Test/.keep
+      - sample page.md
